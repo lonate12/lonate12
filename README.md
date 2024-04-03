@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rene</h1>
 <h3 align="center">Tech Professional</h3>
 
-- 🔭 I’m currently working on [a personal project to help with pickup soccer management woes!](http://renes-pittman-park-app-bucket.s3-website-us-east-1.amazonaws.com/)
+- 🔭 I’m currently working on [improvements for my Learning Management System app](https://github.com/lonate12/mrs-pattersons-desk)
 
 - 📫 How to reach me **lonate12@gmail.com**
 
